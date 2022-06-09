@@ -198,7 +198,7 @@
           <h3>TRAVEL ✈</h3>
           <p class="reasons-text">
             Although India has a high population of English
-            speaking/understanding residents which wouldn't make it exactly hard
+            speaking/ understanding residents which wouldn't make it exactly hard
             for you to navigate through the country, learning the local language
             would give you an upper hand where you wouldn't need to rely on
             anyone. While English will give you complete access to the urban
