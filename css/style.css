@@ -1,0 +1,53 @@
+#intro {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/033/205/original/backgroundimage.jpg?1651432635);
+  background-position: center;
+  /* background-repeat: repeat; */
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+
+h1,
+h2,
+.card-title,
+.btn {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.row {
+  background-color: transparent;
+}
+
+.card {
+  background-color: rgba(131, 188, 185, 0.5);
+  border: 1px solid #023c41;
+  border-radius: 30px;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.btn {
+  border: 1px solid #023c41;
+  border-radius: 30px;
+  font-size: 1.25rem;
+  color: #023c41;
+}
+
+.btn:hover {
+  background-color: #023c41;
+  color: #fff;
+}
+
+.hindi-images {
+  width: 100px;
+}
+
+.divider {
+  width: 150px;
+}
